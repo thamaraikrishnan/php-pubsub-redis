@@ -1,4 +1,4 @@
-FROM php:7.0-fpm
+FROM php:7.4-fpm
 MAINTAINER Superbalist <tech+docker@superbalist.com>
 
 RUN mkdir /opt/php-pubsub
